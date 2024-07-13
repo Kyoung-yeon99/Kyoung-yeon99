@@ -69,7 +69,7 @@
 </table>
 
 
-
+<!--
 ## 🛠 Tech Stack
 #### Data 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -102,6 +102,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Preset](https://img.shields.io/badge/Preset-4D4D4D?style=for-the-badge&logo=preset&logoColor=white)
+-->
 
 <br>
 <br>

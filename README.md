@@ -5,10 +5,11 @@
 <br>
 
 ## ☀️ About ME
-- I'm a fresh graduate eager to start my career in data engineering
-- I facilitate *smooth collaboration* in team projects through active communication and asking questions
-- I strive to write optimized code that is *scalable and suitable for specific data characteristics*
-- I love exploring delicious food🍕, iced coffee☕️, and traveling all around the world✈️
+- 📌 I'm a fresh graduate eager to start my career in data engineering
+- 🤝 I facilitate *smooth collaboration* in team projects through active communication and asking questions
+- 👩🏻‍💻 I strive to write optimized code that is *scalable and suitable for specific data characteristics*
+- 📝 I regularly write articles on https://velog.io/@juky_99/
+- ❤️‍🔥 I love exploring delicious food🍕, iced coffee☕️, and traveling all around the world✈️
 
 <br>
 <br>

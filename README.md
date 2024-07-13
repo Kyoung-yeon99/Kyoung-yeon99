@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 **I'm Kyoungyeon, a recent university graduate and aspiring data engineer!**
 
 <br>

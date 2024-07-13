@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 <h3 align="center"> I'm Kyoungyeon, a recent university graduate and aspiring data engineer! </h3> 
-
+  
 
 <br>
 
@@ -8,7 +8,7 @@
 - I'm a fresh graduate eager to start my career in data engineering
 - I facilitate *smooth collaboration* in team projects through active communication and asking questions
 - I strive to write optimized code that is *scalable and suitable for specific data characteristics*
-- I love exploring delicious food, iced coffee, and traveling all around the world
+- I love exploring delicious food🍕, iced coffee☕️, and traveling all around the world✈️
 
 <br>
 <br>

@@ -102,14 +102,93 @@
 <br>
 
 ## 💻 Projects
-
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>NewbStock</b><br>
+        <a href="https://github.com/NewbStock">GitHub Repository</a><br>
+        <small>(2024.07.15 - 2024.08.19)</small>
+    </td>
+    <td>Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.</td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=awsglue&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>MorningSlack</b><br>
+        <a href="https://github.com/Devcourse-slackBot/slack_bot">GitHub Repository</a><br>
+        <small>(2024.06.08 - 2024.06.15)</small>
+    </td>
+    <td>Weather, fine dust information, news, and traffic updates through Slack. Built ETL for fine/ultrafine dust measurement information of user's location.</td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AirKorea%20OpenAPI-FFD700?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>MyZIP</b><br>
+        <a href="https://github.com/my-zip/myzip">GitHub Repository</a><br>
+        <small>(2024.05.10 - 2024.05.17)</small>
+    </td>
+    <td>Data analysis and visualisation of 4 types of property transactions in Korea. Built ETL for officetel actual transaction price data and data visualisation.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-iam&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Preset-FF4B4B?style=for-the-badge&logo=preset&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>OverTheGlass</b><br>
+        <a href="https://github.com/Over-The-Glass">GitHub Repository</a><br>
+        <small>(2023.01 - 2023.11)</small>
+    </td>
+    <td>Real-time caption for the hearing impaired with AR Glasses. Established the server with Flask and the database with MySQL.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Dlib-FF4500?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="3">Experience</th>
+  </tr>
+  <tr>
+    <td colspan="3"><b>Ericsson-LG Internship</b><br>
+        <i>5G NR SW Developer | BNEW DNEW TC DG5 C</i> <small>(2022.01.03 - 2022.02.25)</small><br>
+        - Developed code to handle user equipment location request messages received by gNodeB from AMF<br>
+        - Performed unit tests on geolocation code using Google Test gMock<br>
+        - Teamed up with interns in an in-house venture programme to design a virtual meeting platform that separates work and personal life and delivered a presentation to all employees
+    </td>
+  </tr>
+</table>
 
 <br>
-<br>
+<be>
 
-## 📊 Github Stats
+<!--
+## 📊 Github Stat
 [![Kyoungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyoung-yeon99)](https://github.com/Kyoung-yeon99/github-readme-stats)
-
+-->
 <br>
 <br>
 

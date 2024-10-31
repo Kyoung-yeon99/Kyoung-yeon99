@@ -104,16 +104,16 @@
 
 ## 💻 Projects
 <h3><a href="https://github.com/NewbStock">🔗 NewbStock </a></h3> 
-<p>Period: 2024.07.15 - 2024.08.19</p>
-<p>Tech Stack: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
+Period: 2024.07.15 - 2024.08.19<br>
+Tech Stack: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose
 <p>
   Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. 
   Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
 </p>
 
 <h3><a href="https://github.com/Devcourse-slackBot/slack_bot">🔗 MorningSlack </a></h3>
-<p>Period: 2024.06.08 - 2024.06.15</p>
-<p>Tech Stack: AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI</p>
+Period: 2024.06.08 - 2024.06.15<br>
+Tech Stack: AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI
 <p>
   <strong>Period:</strong> 2024.06.08 - 2024.06.15<br>
   Weather, fine dust information, news, and traffic updates through Slack. 

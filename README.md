@@ -103,38 +103,54 @@
 
 
 ## 💻 Projects
-<h3><a href="https://github.com/NewbStock">🔗 NewbStock </a></h3> 
-Period: 2024.07.15 - 2024.08.19<br>
-Tech Stack: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose
+<h3>
+  <a href="https://github.com/NewbStock">🔗 NewbStock</a> 
+  <span style="font-size: 0.8em; color: #666;">2024.07.15 - 2024.08.19</span>
+</h3>
+
+<b>Tech Stack:</b> AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose
 <p>
-  Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. 
+  Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. <br>
   Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
 </p>
 
-<h3><a href="https://github.com/Devcourse-slackBot/slack_bot">🔗 MorningSlack </a></h3>
-Period: 2024.06.08 - 2024.06.15<br>
-Tech Stack: AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI
+<br>
+
+<h3>
+  <a href="https://github.com/Devcourse-slackBot/slack_bot">🔗 MorningSlack</a> 
+  <span style="font-size: 0.8em; color: #666;">2024.06.08 - 2024.06.15</span>
+</h3>
+
+<b>Tech Stack:</b> AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI
 <p>
-  <strong>Period:</strong> 2024.06.08 - 2024.06.15<br>
-  Weather, fine dust information, news, and traffic updates through Slack. 
+  Weather, fine dust information, news, and traffic updates through Slack. <br>
   Built ETL for fine/ultrafine dust measurement information of user's location.
 </p>
 
-<h3>MyZIP</h3>
-<p>
-  <strong>GitHub:</strong> <a href="https://github.com/my-zip/myzip">https://github.com/my-zip/myzip</a><br>
-  <strong>Period:</strong> 2024.05.10 - 2024.05.17<br>
-  Data analysis and visualisation of 4 types of property transactions in Korea. Built ETL for officetel actual transaction price data and data visualisation.
-</p>
-<p><strong>Technologies:</strong> Snowflake (DW), AWS S3 (DL), IAM, Preset</p>
 
-<h3>OverTheGlass</h3>
+<br>
+
+<h3>
+  <a href="https://github.com/my-zip/myzip">🔗 MyZIP</a> 
+  <span style="font-size: 0.8em; color: #666;">2024.05.10 - 2024.05.17</span>
+</h3>
+<p><strong>Tech Stack:</strong> Snowflake (DW), AWS S3 (DL), IAM, Preset</p>
 <p>
-  <strong>GitHub:</strong> <a href="https://github.com/Over-The-Glass">https://github.com/Over-The-Glass</a><br>
-  <strong>Period:</strong> 2023.01 - 2023.11<br>
-  Real-time caption for the hearing impaired with AR Glasses. Established the server with Flask and the database with MySQL.
+  Data analysis and visualisation of 4 types of property transactions in Korea.<br> 
+  Built ETL for officetel actual transaction price data and data visualisation.
 </p>
-<p><strong>Technologies:</strong> Flask, p5.js, MySQL, HTML/CSS/JS, Dlib, Unity</p>
+
+<br>
+<h3>
+  <a href="https://github.com/Over-The-Glass">🔗 OverTheGlass</a> 
+  <span style="font-size: 0.8em; color: #666;">2023.01 - 2023.11</span>
+</h3>
+<p><strong>Tech Stack:</strong> Flask, p5.js, MySQL, HTML/CSS/JS, Dlib, Unity</p>
+<p>
+  Real-time caption for the hearing impaired with AR Glasses.<br>
+  Established the server with Flask and the database with MySQL.
+</p>
+
 
 <br>
 <br>

@@ -103,21 +103,22 @@
 
 
 ## 💻 Projects
-<h3>NewbStock <a href="https://github.com/NewbStock">🔗</a> </h3> 2024.07.15 - 2024.08.19 
-<p>Technologies: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
+<h3><a href="https://github.com/NewbStock">🔗 NewbStock </a></h3> 
+<p>Period: 2024.07.15 - 2024.08.19</p>
+<p>Tech Stack: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
 <p>
-  <strong>GitHub:</strong> <a href="https://github.com/NewbStock">https://github.com/NewbStock</a><br>
-  <strong>Period:</strong> <br>
-  Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
+  Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. 
+  Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
 </p>
 
-<h3>MorningSlack</h3>
+<h3><a href="https://github.com/Devcourse-slackBot/slack_bot">🔗 MorningSlack </a></h3>
+<p>Period: 2024.06.08 - 2024.06.15</p>
+<p>Tech Stack: AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI</p>
 <p>
-  <strong>GitHub:</strong> <a href="https://github.com/Devcourse-slackBot/slack_bot">https://github.com/Devcourse-slackBot/slack_bot</a><br>
   <strong>Period:</strong> 2024.06.08 - 2024.06.15<br>
-  Weather, fine dust information, news, and traffic updates through Slack. Built ETL for fine/ultrafine dust measurement information of user's location.
+  Weather, fine dust information, news, and traffic updates through Slack. 
+  Built ETL for fine/ultrafine dust measurement information of user's location.
 </p>
-<p><strong>Technologies:</strong> AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI</p>
 
 <h3>MyZIP</h3>
 <p>

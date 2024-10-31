@@ -187,13 +187,13 @@
 
 
 ## 💻 Projects
-<h3>NewbStock</h3>
+<h3>NewbStock <a href="https://github.com/NewbStock">🔗</a> 2024.07.15 - 2024.08.19 </h3>
+<p>Technologies: AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
 <p>
   <strong>GitHub:</strong> <a href="https://github.com/NewbStock">https://github.com/NewbStock</a><br>
-  <strong>Period:</strong> 2024.07.15 - 2024.08.19<br>
+  <strong>Period:</strong> <br>
   Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
 </p>
-<p><strong>Technologies:</strong> AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
 
 <h3>MorningSlack</h3>
 <p>

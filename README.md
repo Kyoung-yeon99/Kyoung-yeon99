@@ -183,7 +183,53 @@
 </table>
 
 <br>
-<be>
+<br>
+
+
+## 💻 Projects
+<h3>NewbStock</h3>
+<p>
+  <strong>GitHub:</strong> <a href="https://github.com/NewbStock">https://github.com/NewbStock</a><br>
+  <strong>Period:</strong> 2024.07.15 - 2024.08.19<br>
+  Stock data and related information for Korean and US stocks, including fluctuation news and profit calculators. Set up a data pipeline for stock data of the top 100 market capitalisation companies in Korea.
+</p>
+<p><strong>Technologies:</strong> AWS (EC2, S3, Redshift, Glue, IAM), Airflow, Django, Docker-compose</p>
+
+<h3>MorningSlack</h3>
+<p>
+  <strong>GitHub:</strong> <a href="https://github.com/Devcourse-slackBot/slack_bot">https://github.com/Devcourse-slackBot/slack_bot</a><br>
+  <strong>Period:</strong> 2024.06.08 - 2024.06.15<br>
+  Weather, fine dust information, news, and traffic updates through Slack. Built ETL for fine/ultrafine dust measurement information of user's location.
+</p>
+<p><strong>Technologies:</strong> AWS Redshift (DW), Docker-compose, Airflow, SlackAPI, AirKorea OpenAPI</p>
+
+<h3>MyZIP</h3>
+<p>
+  <strong>GitHub:</strong> <a href="https://github.com/my-zip/myzip">https://github.com/my-zip/myzip</a><br>
+  <strong>Period:</strong> 2024.05.10 - 2024.05.17<br>
+  Data analysis and visualisation of 4 types of property transactions in Korea. Built ETL for officetel actual transaction price data and data visualisation.
+</p>
+<p><strong>Technologies:</strong> Snowflake (DW), AWS S3 (DL), IAM, Preset</p>
+
+<h3>OverTheGlass</h3>
+<p>
+  <strong>GitHub:</strong> <a href="https://github.com/Over-The-Glass">https://github.com/Over-The-Glass</a><br>
+  <strong>Period:</strong> 2023.01 - 2023.11<br>
+  Real-time caption for the hearing impaired with AR Glasses. Established the server with Flask and the database with MySQL.
+</p>
+<p><strong>Technologies:</strong> Flask, p5.js, MySQL, HTML/CSS/JS, Dlib, Unity</p>
+
+<br>
+<br>
+
+## 💻 Experience
+<h3>Ericsson-LG Internship</h3>
+<p>
+  <strong>Role:</strong> 5G NR SW Developer | BNEW DNEW TC DG5 C<br>
+  <strong>Period:</strong> 2022.01.03 - 2022.02.25<br>
+  Developed code to handle user equipment location request messages received by gNodeB from AMF. Performed unit tests on geolocation code using Google Test gMock. Teamed up with interns in an in-house venture programme to design a virtual meeting platform that separates work and personal life and delivered a presentation to all employees.
+</p>
+
 
 <!--
 ## 📊 Github Stat

@@ -156,10 +156,7 @@
 <br>
 
 ## 💻 Experience
-<h3>
-  Ericsson-LG Internship
-  <span style="font-size: 0.8em; color: #666;">2022.01.03 - 2022.02.25</span>
-</h3>
+<h3> Ericsson-LG Internship 2022.01.03 - 2022.02.25 </h3>
 <p><strong>Role:</strong> 5G NR SW Developer | BNEW DNEW TC DG5 C<br></p>
 <p>
   Developed code to handle user equipment location request messages received by gNodeB from AMF. <br> 

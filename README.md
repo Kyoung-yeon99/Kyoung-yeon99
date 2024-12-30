@@ -1,13 +1,13 @@
 <h3 align="center">Hi there 👋</h3>
-<h3 align="center"> I'm Kyoungyeon, a recent university graduate and aspiring data engineer! </h3> 
+<h3 align="center"> I'm Kyoungyeon, a recent university graduate and aspiring engineer! </h3> 
   
 
 <br>
 
 ## ☀️ About ME
-- 📌 I'm a fresh graduate eager to start my career in data engineering
+- 📌 I'm a fresh graduate eager to start my career in software/data engineering
 - 🤝 I facilitate *smooth collaboration* in team projects through active communication and asking questions
-- 👩🏻‍💻 I strive to write optimized code that is *scalable and suitable for specific data characteristics*
+- 👩🏻‍💻 I strive to write optimized code that is *scalable and suitable for specific system characteristics*
 - 📝 I regularly write articles on https://velog.io/@juky_99/
 - ❤️‍🔥 I love exploring delicious food🍕, iced coffee☕️, and travelling all around the world✈️
 

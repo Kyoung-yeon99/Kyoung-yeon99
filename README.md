@@ -159,9 +159,9 @@
 <h3> Ericsson-LG Internship 2022.01.03 - 2022.02.25 </h3>
 <p><strong>Role:</strong> 5G NR SW Developer | BNEW DNEW TC DG5 C<br></p>
 <p>
-  Developed code to handle user equipment location request messages received by gNodeB from AMF. <br> 
-  Performed unit tests on geolocation code using Google Test gMock. <br>
-  Teamed up with interns in an in-house venture programme to design a virtual meeting platform that separates work and personal life and delivered a presentation to all employees.
+  - Developed code to handle user equipment location request messages received by gNodeB from AMF. <br> 
+  - Performed unit tests on the code using Google Test gMock. <br>
+  - Teamed up with interns in an in-house venture programme to design a virtual meeting platform that separates work and personal life and delivered a presentation to all employees.
 </p>
 
 
